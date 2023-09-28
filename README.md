@@ -1,4 +1,7 @@
   <h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Shubham Jayswal <img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
+  
+<p align="center">
+<a align="center" href="https://github.com/shubham-masai"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer." /></a>
 
 <p align="center">
 <a align="center" href="https://github.com/shubham-masai"></a>
