@@ -105,7 +105,7 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-masai&langs_count=8&theme=algolia" alt="Shubham's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-masai alt="Shubham's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-masai" alt="Shubham's GitHub stats" />
 
 </div>
 
