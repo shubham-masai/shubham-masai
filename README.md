@@ -34,12 +34,7 @@ Let's collaborate and build amazing web solutions together! Feel free to reach o
 - 👨‍💻 All my projects are available at my [Portfolio](https://shubham-masai.github.io/)
     
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
-
-- Student relation management system **[Repo](https://github.com/JayachandranRamu/adorable-crown-8253)**
-
-- Pills Reminder **[Repo](https://github.com/shubham-masai/damp-bite-3145)**
-- Travel **[Repo](https://github.com/shubham-masai/subdued-neck-2197)**
-
+ 
 <br/>
  
 <div><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-masai&row=2&column=7&margin-w=15&margin-h=15" alt="shubham-masai"/></a> </div>
