@@ -1,122 +1,101 @@
-
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
+
+  <h1>⚡ Shubham Jayswal ⚡</h1>
+  <h3>Full Stack Web Developer | MERN Stack & Next.js Specialist</h3>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=620&height=50&lines=Shubham+Jayswal+-+Full+Stack+Software+Developer;MERN+Stack+%26+Next.js+Engineer+(2%2B+Yrs+Exp);Architecting+Live+E-Commerce+%26+REST+APIs;Full+Stack+Developer+from+Bilimora+Gujarat" alt="Shubham Jayswal Typing Animation" width="620" height="50" />
+  </p>
+
+  <p align="center">
+    <a href="https://shubham-masai.github.io/">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-shubham--masai.github.io-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Shubham Jayswal Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/shubhamjayswal">
+      <img src="https://img.shields.io/badge/LinkedIn-Shubham_Jayswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shubham Jayswal LinkedIn" />
+    </a>
+    <a href="mailto:jayswalshubham03@gmail.com">
+      <img src="https://img.shields.io/badge/Email-jayswalshubham03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Shubham Jayswal Email" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=shubham-masai&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Shubham Jayswal Profile Views" />
+  </p>
+
 </div>
 
-<h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Shubham Jayswal <img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
-  
-<p align="center">
-<a align="center" href="https://github.com/shubham-masai"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer." /></a>
+---
+
+### 👨‍💻 Professional Summary — Shubham Jayswal
+
+I am **Shubham Jayswal**, a **Full Stack Web Developer** with **2 years of professional software development experience** specializing in the MERN stack, Next.js, Redis caching, REST APIs, and scalable web architecture.
+
+- 📍 **Location:** **Bilimora, Gujarat, India**
+- 💼 **Professional Role:** Full Stack Software Developer specializing in React.js, Next.js, Node.js, Express.js, MongoDB & Redis.
+- 🎓 **Education:** Full Stack Web Development Certification with Distinction from **Masai School, Bengaluru** (1200+ hours intensive engineering in DSA & MERN stack).
+- 🟢 **Production Applications:** Architected and deployed 4+ live production web platforms.
+- 📬 **Direct Contact:** [jayswalshubham03@gmail.com](mailto:jayswalshubham03@gmail.com) | **Phone:** +91-7490836140
+- 🌐 **Official Live Portfolio:** [shubham-masai.github.io](https://shubham-masai.github.io/)
+
+---
+
+### 🟢 Live Production Applications (Engineered & Deployed)
+
+| Platform | Live Status | Technology Stack | Live Link |
+| :--- | :---: | :--- | :---: |
+| **🍦 Frozen Fun** | `🟢 LIVE` | `Next.js` `Node.js` `Express` `MongoDB` `Redis` `Razorpay` | [Visit Site ↗](https://www.frozenfun.com/) |
+| **🛒 Kuku — E-commerce Platform** | `🟢 LIVE` | `React.js` `Node.js` `Express` `MongoDB` `Tailwind` | [Visit Site ↗](https://letskuku.com/) |
+| **📰 Bar Code India** | `🟢 LIVE` | `Express.js` `React.js` `REST APIs` `SEO` `Tailwind` | [Visit Site ↗](https://www.barcodeindia.com/) |
+| **🏢 Kesariya B2B Application** | `🟢 LIVE` | `Next.js` `React Native` `Razorpay` `AWS S3` `Node.js` | [App Store ↗](https://play.google.com/store/apps/details?id=com.kesariya.kesariya) |
+
+---
+
+### 🛠️ Technical Capabilities & Stack
+
+<div align="center">
+
+| Category | Skill Set |
+| :--- | :--- |
+| **Frontend Frameworks** | ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend & Architecture** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Razorpay](https://img.shields.io/badge/Payment_Gateways-0077B5?style=for-the-badge&logo=googlepay&logoColor=white) |
+| **Databases & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Achievements
+
+<div align="center">
+  <a href="https://github.com/shubham-masai">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubham-masai&theme=nord&column=6&margin-w=15&margin-h=15" alt="Shubham Jayswal GitHub Trophies" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-masai&theme=nord&hide_border=true" alt="Shubham Jayswal GitHub Streak Stats" width="98%" />
+</div>
+
+---
+
+### 📬 Connect With Shubham Jayswal
+
+<div align="center">
+  <a href="https://linkedin.com/in/shubhamjayswal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shubham_Jayswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shubham Jayswal LinkedIn" />
+  </a>
+  <a href="mailto:jayswalshubham03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-jayswalshubham03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shubham Jayswal Gmail" />
+  </a>
+  <a href="https://shubham-masai.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shubham--masai.github.io-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Shubham Jayswal Portfolio" />
+  </a>
+</div>
 
 <p align="center">
-<a align="center" href="https://github.com/shubham-masai"></a>
+  <sub>Shubham Jayswal | Full Stack Web Developer | MERN Stack Engineer | Bilimora, Gujarat</sub>
 </p>
-
-<h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center"> I'm Shubham Jayswal, a full-stack web developer from Bilimora, Gujarat.Passionate about creating exceptional web applications, I specialize in both front-end and back-end development.
-With expertise in HTML, CSS, JavaScript, and frameworks like React, I craft seamless and engaging user experiences.
-Proficient in server-side technologies like Node.js and databases such as MongoDB, I bring robust functionality and data management to my projects.
-Let's collaborate and build amazing web solutions together! Feel free to reach out—I'd love to connect and discuss possibilities.</p>
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-masai&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-masai" /> </p>
-
-- 🌍 I'm based in **Bilimora, Gujarat**
-
-- 🌱 I’m currently learning **Full Stack Developement**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB & DSA**
-
-- 📫 How to reach me **shubhammasai03@gmail.com**
-
-- 👨‍💻 All my projects are available at my [Portfolio](https://shubham-masai.github.io/)
-    
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
- 
-<br/>
- 
-<div><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-masai&row=2&column=7&margin-w=15&margin-h=15" alt="shubham-masai"/></a> </div>
-
-<div align="center">
-  <h3 align="left" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h3>
-<br>
- <table>
-  <tbody>
-    <tr>
-      <td>
-        <p>Bootstrap</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/>
-      </td>
-      <td>
-        <p>CSS3</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-      </td>
-      <td>
-        <p>Cypress</p>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="80" height="80"/>
-      </td>
-      <td>
-        <p>HTML5</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>JavaScript</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
-      </td>
-      <td>
-        <p>Jest</p>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="80" height="80"/>
-      </td>
-      <td>
-        <p>MongoDB</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
-      </td>
-      <td>
-        <p>Node.js</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>React</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-      </td>
-      <td>
-        <p>Redux</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/>
-      </td>
-      <td>
-        <p>TypeScript</p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
-      </td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-<h3 align="center">GitHub Analytics: </h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-masai&count_private=true&theme=algolia" alt="Shubham's GitHub stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-masai&langs_count=8&theme=algolia" alt="Shubham's GitHub stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-masai" alt="Shubham's GitHub stats" />
-
-</div>
-
-<br/>
-<br/>
- 
-
-<h3 align="center">How to reach me: 📫</h3>
-<div align="center" display="flex">
-  <a  href="https://linkedin.com/in/shubham-jayswal-69ba3b19a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  href="mailto: shubhammasai03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a  href="https://github.com/shubham-masai" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
- 
