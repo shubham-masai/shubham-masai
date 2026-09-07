@@ -50,7 +50,7 @@ I am **Shubham Jayswal**, a **Full Stack Web Developer** with **2+ years of prof
 
 | Domain | Competencies & Technologies |
 | :--- | :--- |
-| **Frontend Engineering** | ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frontend Engineering** | ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | **Backend & Architecture** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Payment](https://img.shields.io/badge/Razorpay_Gateway-0077B5?style=for-the-badge&logo=googlepay&logoColor=white) |
 | **Databases & Caching** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) |
 | **Developer Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
@@ -60,67 +60,64 @@ I am **Shubham Jayswal**, a **Full Stack Web Developer** with **2+ years of prof
 
 ---
 
-### 🚀 Featured Engineering Projects (Detailed & Pinned)
+### 🚀 Featured Pinned Engineering Projects
 
-Each featured project below includes complete architecture breakdown, technologies used, step-by-step local setup, and live demonstration links:
+The flagship repositories pinned on my profile, including complete architecture breakdown, technologies used, step-by-step local setup, and live demonstration links:
 
 ---
 
-#### 1. 🔗 TinyLink — High-Performance URL Shortener & Analytics System
+#### 1. 🎬 Hypergro Video Clone — Video Streaming & Interactive Comment Platform
 
-> **Live Deployment:** <a href="https://tinylink-frontend.vercel.app" target="_blank" rel="noopener noreferrer">Visit TinyLink Live ↗</a> &nbsp;|&nbsp; **Frontend Repository:** <a href="https://github.com/shubham-masai/TinyLink" target="_blank" rel="noopener noreferrer">github.com/shubham-masai/TinyLink ↗</a> &nbsp;|&nbsp; **Backend Repository:** <a href="https://github.com/shubham-masai/TinyLinkBackend" target="_blank" rel="noopener noreferrer">github.com/shubham-masai/TinyLinkBackend ↗</a>
+> **Live Deployment:** <a href="https://hypergro-video-clone.vercel.app/" target="_blank" rel="noopener noreferrer">Visit Video Clone Live ↗</a> &nbsp;|&nbsp; **GitHub Repository:** <a href="https://github.com/shubham-masai/Hypergro-video-clone" target="_blank" rel="noopener noreferrer">github.com/shubham-masai/Hypergro-video-clone ↗</a>
 
 - **Project Description:**  
-  TinyLink is an enterprise-grade URL shortener and click-analytics platform designed to transform long, cumbersome links into clean, trackable short URLs. It features an interactive dashboard, real-time redirection metrics, custom URL alias generation, and health check monitoring.
+  Video Clone is a responsive video streaming and engagement platform where users can view video feeds, like/dislike content, leave timestamped comments, and dynamically edit or delete their interactions. Built with React and TypeScript, it incorporates responsive loading skeletons and persistent local storage caching.
 - **Tech Stack Used:**  
-  `Next.js 14` `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `RESTful APIs` `Vercel`
+  `React.js` `TypeScript` `Redux` `Tailwind CSS` `Local Storage API` `Vercel`
 - **Key Features & Visuals:**  
-  - ⚡ Instant URL short-code creation with optional custom alphanumeric aliases.
-  - 📊 Real-time analytics dashboard tracking total clicks, referrer breakdown, and last clicked timestamp.
-  - 🔄 High-throughput HTTP 302 redirection pipeline with atomic database increment.
-  - 🩺 Dedicated health monitoring endpoint (`/healthz`) returning JSON status and API version.
+  - 🎥 **Smooth Video Playback:** In-app video player featuring skeleton loading states for high-performance UX.
+  - 💬 **Interactive Comment System:** Real-time comment creation, editing, and deletion with instant UI updates.
+  - 💾 **Persistent Reactions:** LocalStorage integration preserving user likes, dislikes, and comments per session.
+  - 📄 **Pagination & Performance:** Chunked data loading algorithms optimizing network bandwidth and frame rates.
 - **Setup & Installation (Run Locally):**  
   ```bash
-  # 1. Clone the frontend repository
-  git clone https://github.com/shubham-masai/TinyLink.git
-  cd TinyLink
+  # 1. Clone the repository
+  git clone https://github.com/shubham-masai/Hypergro-video-clone.git
+  cd Hypergro-video-clone
 
   # 2. Install dependencies
   npm install
 
-  # 3. Configure environment variables (create .env.local)
-  # NEXT_PUBLIC_API_BASE_URL=http://localhost:5000
-
-  # 4. Start local development server
-  npm run dev
+  # 3. Start development server
+  npm start
   # Open http://localhost:3000 in your browser
   ```
 
 ---
 
-#### 2. 🌍 Trakkerz — Travel Booking & Experience Discovery Platform
+#### 2. 🚀 SpaceX Exploration Dashboard — Rockets & Missions Tracker
 
-> **Live Deployment:** <a href="https://651bc1fbf13ca03c77460946--preeminent-bombolone-bfea0d.netlify.app/" target="_blank" rel="noopener noreferrer">Visit Trakkerz Live ↗</a> &nbsp;|&nbsp; **GitHub Repository:** <a href="https://github.com/shubham-masai/Trakkerz" target="_blank" rel="noopener noreferrer">github.com/shubham-masai/Trakkerz ↗</a>
+> **Live Deployment:** <a href="https://spacex-app-six.vercel.app/" target="_blank" rel="noopener noreferrer">Visit SpaceX Tracker Live ↗</a> &nbsp;|&nbsp; **GitHub Repository:** <a href="https://github.com/shubham-masai/SpaceX" target="_blank" rel="noopener noreferrer">github.com/shubham-masai/SpaceX ↗</a>
 
 - **Project Description:**  
-  Trakkerz is an end-to-end travel exploration and holiday booking web application. It enables tourists and travel enthusiasts to discover international holiday destinations, compare custom travel itineraries, filter packages by price range and duration, and seamlessly complete trip reservations.
+  SpaceX Tracker is an interactive data visualization web application interfacing with official open SpaceX REST APIs. It provides space science enthusiasts and developers with structured access to rocket technical specifications, past and upcoming orbital launches, and capsule telemetry.
 - **Tech Stack Used:**  
-  `React.js` `Redux Toolkit` `JavaScript (ES6+)` `Tailwind CSS` `REST APIs` `Netlify`
+  `React.js` `Redux` `SpaceX Public REST API` `Tailwind CSS` `Axios` `Vercel`
 - **Key Features & Visuals:**  
-  - 🗺️ Interactive destination explorer highlighting popular landmarks, itineraries, and user reviews.
-  - 🔍 Multi-parameter search and dynamic price/rating filters with instantaneous client-side updates.
-  - 📅 Integrated reservation booking flow with form validation and confirmation modal.
-  - 📱 Fully responsive layout optimized across mobile devices, tablets, and desktop displays.
+  - 🛰️ **Rocket Fleet Explorer:** Comprehensive specifications for Falcon 1, Falcon 9, Falcon Heavy, and Starship (thrust, mass, stages).
+  - 📅 **Launch Mission Logs:** Historical and upcoming orbital launch tracking with launch site details and countdown timers.
+  - 🌌 **High-Definition Visuals:** Official SpaceX launch imagery and mission patch badges.
+  - ⚡ **Redux State Caching:** Centralized data store preventing redundant API requests and ensuring sub-second page transitions.
 - **Setup & Installation (Run Locally):**  
   ```bash
   # 1. Clone the repository
-  git clone https://github.com/shubham-masai/Trakkerz.git
-  cd Trakkerz
+  git clone https://github.com/shubham-masai/SpaceX.git
+  cd SpaceX
 
   # 2. Install dependencies
   npm install
 
-  # 3. Launch application
+  # 3. Run development server
   npm start
   # Open http://localhost:3000 in your browser
   ```
@@ -136,10 +133,10 @@ Each featured project below includes complete architecture breakdown, technologi
 - **Tech Stack Used:**  
   `React.js` `JavaScript (ES6+)` `Context API` `CSS3` `MockAPI / REST API` `Vercel`
 - **Key Features & Visuals:**  
-  - 👕 Comprehensive clothing catalog with high-resolution imagery and detailed product specifications.
-  - 🏷️ Advanced sorting and filtering algorithms (filter by category, sort by price low-to-high/high-to-low).
-  - 🛒 Dynamic Cart management supporting instant item addition, quantity updates, and cart subtotal calculation.
-  - 🔐 User authentication (Register/Login) with protected checkout pages and simulated payment confirmation.
+  - 👕 **Apparel Catalog:** Comprehensive catalog with detailed product cards, specifications, and pricing.
+  - 🏷️ **Dynamic Sorting & Filtering:** Instant filter by category, sort by price (low-to-high / high-to-low).
+  - 🛒 **Dynamic Cart Management:** Add to cart, adjust quantities dynamically, and view itemized order summary.
+  - 🔐 **User Authentication:** Sign-up, login validation, and protected checkout routing with simulated payment.
 - **Setup & Installation (Run Locally):**  
   ```bash
   # 1. Clone the repository
@@ -156,31 +153,27 @@ Each featured project below includes complete architecture breakdown, technologi
 
 ---
 
-#### 4. 🚀 SpaceX Exploration Dashboard — Rockets & Missions Tracker
+#### 4. 🤝 Connect — Student Relationship Management System
 
-> **Live Deployment:** <a href="https://spacex-app-six.vercel.app/" target="_blank" rel="noopener noreferrer">Visit SpaceX Tracker Live ↗</a> &nbsp;|&nbsp; **GitHub Repository:** <a href="https://github.com/shubham-masai/SpaceX" target="_blank" rel="noopener noreferrer">github.com/shubham-masai/SpaceX ↗</a>
+> **Live Deployment:** <a href="https://shubham-masai-connect.vercel.app/" target="_blank" rel="noopener noreferrer">Visit Connect Live ↗</a> &nbsp;|&nbsp; **GitHub Repository:** <a href="https://github.com/shubham-masai/connect" target="_blank" rel="noopener noreferrer">github.com/shubham-masai/connect ↗</a>
 
 - **Project Description:**  
-  SpaceX Tracker is an interactive data visualization web application that interfaces directly with official open SpaceX REST APIs. It provides space science enthusiasts and developers with structured access to rocket technical specifications, past and upcoming orbital launches, and capsule telemetry.
+  Connect is a collaborative Student Relationship Management platform inspired by modern LMS architectures. Designed to connect student communities, mentors, and administrators, the application features dedicated portals for students, managers, and administrators with role-based features.
 - **Tech Stack Used:**  
-  `React.js` `Redux` `SpaceX Public REST API` `Tailwind CSS` `Axios` `Vercel`
+  `HTML5` `CSS3` `JavaScript (ES6+)` `RESTful MockAPI` `Email OTP API` `Vercel`
 - **Key Features & Visuals:**  
-  - 🛰️ Real-time rocket specs directory (Falcon 9, Falcon Heavy, Starship) detailing thrust, stages, and reusability.
-  - 📅 Chronological orbital launch schedule highlighting mission success/failure rates and flight numbers.
-  - 🌌 High-resolution imagery gallery and mission badge representations for every spaceflight.
-  - ⚡ Centralized Redux state management providing smooth API response caching and zero redundant fetches.
+  - 👥 **Role-Based Portals:** Multi-tiered architecture supporting Student, Manager, and Administrator workflows.
+  - 🔐 **Authentication & Email OTP:** Secure email verification and onboarding pipeline for students.
+  - 💬 **Community Discussions & Tasks:** Real-time group discussions, announcements, and interactive to-do lists.
+  - 🌓 **Theme Customization:** Seamless Light/Dark mode switcher with fullscreen capability across all screen sizes.
 - **Setup & Installation (Run Locally):**  
   ```bash
   # 1. Clone the repository
-  git clone https://github.com/shubham-masai/SpaceX.git
-  cd SpaceX
+  git clone https://github.com/shubham-masai/connect.git
+  cd connect
 
-  # 2. Install dependencies
-  npm install
-
-  # 3. Run development server
-  npm start
-  # Open http://localhost:3000 in your browser
+  # 2. Launch with live server
+  # Open index.html in your browser or run via Live Server
   ```
 
 ---
